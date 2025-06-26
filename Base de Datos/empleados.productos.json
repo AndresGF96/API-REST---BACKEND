@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "6854ba8945656164fe42158d"
+  },
+  "nombre": "Computadora",
+  "precio": "2000",
+  "stock": "7"
+},
+{
+  "_id": {
+    "$oid": "6854bb9745656164fe421590"
+  },
+  "nombre": "Formateo",
+  "precio": "150",
+  "stock": "8"
+},
+{
+  "_id": {
+    "$oid": "685cba51dba84e45b8f4a320"
+  },
+  "nombre": "Teclado",
+  "precio": 1000,
+  "stock": 7,
+  "__v": 0
+}]
