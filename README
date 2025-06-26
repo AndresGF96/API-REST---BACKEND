@@ -43,3 +43,42 @@ Este proyecto es el backend de una aplicación de gestión de empleados, desarro
 - `GET /api/usuarios/:id` — Obtener usuario por ID
 - `GET /api/empleados` — Obtener todos los empleados
 - `GET /api/productos` — Obtener todos los productos
+
+
+## Estructura del Proyecto
+
+```
+GESTION - EMPLEADOS/
+│
+├── Backend/
+│   ├── controllers/
+│   │   ├── empleado.controller.js
+│   │   └── usuario.controller.js
+│   │
+│   ├── models/
+│   │   ├── empleado.js
+│   │   ├── producto.js
+│   │   └── usuario.js
+│   │
+│   ├── routes/
+│   │   ├── empleado.route.js
+│   │   ├── producto.route.js
+│   │   └── usuario.route.js
+│   │
+│   ├── database.js
+│   └── index.js
+│
+├── node_modules/
+│
+├── package.json
+├── package-lock.json
+└── README.md
+```
+
+**Descripción rápida:**
+- `controllers/`: Lógica de negocio y controladores de cada entidad.
+- `models/`: Esquemas de Mongoose para empleados, productos y usuarios.
+- `routes/`: Definición de rutas de la API para cada entidad.
+- `database.js`: Configuración y conexión a MongoDB.
+- `index.js`: Archivo principal del servidor Express.
+
