@@ -1,0 +1,104 @@
+[{
+  "_id": {
+    "$oid": "684cbfb6945a993d8832c04b"
+  },
+  "name": "Camilo",
+  "office": "Bogotá",
+  "position": "Experto",
+  "salary": "1000"
+},
+{
+  "_id": {
+    "$oid": "684cc5bf2e115fc4fbdcfd99"
+  },
+  "name": "John Doe",
+  "position": "Software Engineer",
+  "office": "New York",
+  "salary": 80000
+},
+{
+  "_id": {
+    "$oid": "684cc645945a993d8832c04f"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684cc8d6945a993d8832c054"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684cc920945a993d8832c057"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684ccb415ff5b044c0f306db"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684ccd0e5ff5b044c0f306dd"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684ccd2f5ff5b044c0f306e0"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684ccd8d5ff5b044c0f306e2"
+  },
+  "name": "Fernanda",
+  "office": "Bogotá",
+  "position": "Experta",
+  "salary": 2000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684ccd915ff5b044c0f306e4"
+  },
+  "name": "Fernanda",
+  "office": "Bogotá",
+  "position": "Experta",
+  "salary": 2000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684cd07c5ff5b044c0f306e9"
+  },
+  "name": "Natalia",
+  "office": "Bogotá",
+  "position": "Junior",
+  "salary": 800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6854a5d169a8bd1fac8bd144"
+  },
+  "name": "Natalia",
+  "office": "Bogotá",
+  "position": "Junior",
+  "salary": 800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "685cb525f7281646d86d949f"
+  },
+  "name": "Nicol",
+  "office": "Bogotá",
+  "position": "Junior",
+  "salary": 1000,
+  "__v": 0
+}]
